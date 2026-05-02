@@ -1,2 +1,2 @@
 ﻿# Cloud-Data-Engineering---SQL-Queries
-# Assighment
+# Assighments
